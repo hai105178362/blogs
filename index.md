@@ -15,9 +15,9 @@ Syntax highlighted code block
 ## Header 2
 ### 贝叶斯AB测试链接地址
 
-- https://towardsdatascience.com/conducting-bayesian-inference-in-python-using-pymc3-d407f8d934a5
-- https://tungprime.com/2020/08/31/a-b-testing-with-probabilistic-programming-and-pymc3-part-i/
-- https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
+- [Conducting Bayesian Inference in Python using PyMC3](https://towardsdatascience.com/conducting-bayesian-inference-in-python-using-pymc3-d407f8d934a5)
+- [A/B testing with probabilistic programming and PyMC3 (part I)](https://tungprime.com/2020/08/31/a-b-testing-with-probabilistic-programming-and-pymc3-part-i/)
+- [Using PyMC to Analyze A/B Testing Data](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 
 1. Numbered
 2. List
