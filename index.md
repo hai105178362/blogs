@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎来到Hai个人博客
 
 You can use the [editor on GitHub](https://github.com/hai105178362/blogs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -13,10 +13,11 @@ Syntax highlighted code block
 
 # Header 1
 ## Header 2
-### Header 3
+### 贝叶斯AB测试链接地址
 
-- Bulleted
-- List
+- https://towardsdatascience.com/conducting-bayesian-inference-in-python-using-pymc3-d407f8d934a5
+- https://tungprime.com/2020/08/31/a-b-testing-with-probabilistic-programming-and-pymc3-part-i/
+- https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 
 1. Numbered
 2. List
