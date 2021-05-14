@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/hai105178362/blogs/edit/gh
 
 [叶斯AB测试PPT](https://www.oru.se/globalassets/oru-sv/institutioner/hh/konferenser/banocoss-2019/presentationsslides/c-session-4/bondarenko-bayesian-abc-testing.pdf)
 
-[贝叶斯数据](http://www.stat.cmu.edu/~larry/=sml/Bayes.pdf)
+[贝叶斯书籍](http://www.stat.cmu.edu/~larry/=sml/Bayes.pdf)
 
 ### 贝叶斯AB测试链接地址
 -  [Conducting Bayesian Inference in Python using PyMC3](https://towardsdatascience.com/conducting-bayesian-inference-in-python-using-pymc3-d407f8d934a5)
