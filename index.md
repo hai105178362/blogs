@@ -10,6 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 -  [Using PyMC to Analyze A/B Testing Data](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 -  [bayesian-stats-talk](https://ericmjl.github.io/bayesian-stats-talk/)
 -  [**Bayesian Inference with Probabilistic Programming Using PyMC3](https://medium.com/airy-science/bayesian-inference-with-probabilistic-programming-using-pymc3-a00702ccd9e0)
+-  [AB测试 Bayesian计算详解](http://www.claudiobellei.com/2017/11/02/bayesian-AB-testing/)
 
 ### Markdown
 
