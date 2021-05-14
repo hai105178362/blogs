@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/hai105178362/blogs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[叶斯AB测试PPT](https://www.oru.se/globalassets/oru-sv/institutioner/hh/konferenser/banocoss-2019/presentationsslides/c-session-4/bondarenko-bayesian-abc-testing.pdf)
 
 ### 贝叶斯AB测试链接地址
 -  [Conducting Bayesian Inference in Python using PyMC3](https://towardsdatascience.com/conducting-bayesian-inference-in-python-using-pymc3-d407f8d934a5)
